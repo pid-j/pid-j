@@ -10,3 +10,4 @@ My projects include:
 - [KMetroMaker](https://github.com/pid-j/KMetroMaker) - a Python-based application that allows for offline creation of metro maps.
 - [NewSereneAccess](https://github.com/pid-j/NSAC) - a satirical Python-based protocol that can be hosted on a server.
 - [CF**k](https://github.com/pid-j/CF--k) - a rewrite of [BrainF](https://en.wikipedia.org/wiki/BrainF) in C.
+- [CHRFNS](https://github.com/pid-j/CHRFNS) - a project that allows [Scratch](https://scratch.mit.edu) to connect to the web.
